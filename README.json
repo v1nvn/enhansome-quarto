@@ -56,7 +56,7 @@
             "last_commit": "2025-10-27T19:10:15Z",
             "owner": "UCSB-MEDS",
             "repo": "customizing-quarto-websites",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2026-01-29T10:22:37Z",
             "owner": "quarto-dev",
             "repo": "quarto-nvim",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2026-02-06T23:38:27Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 530
+            "stars": 533
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-06T23:38:27Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 530
+            "stars": 533
           }
         }
       ],
@@ -544,10 +544,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-05T21:44:44Z",
+            "last_commit": "2026-02-07T12:01:49Z",
             "owner": "mcanouil",
             "repo": "quarto-wizard",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2026-01-30T05:24:43Z",
             "owner": "aeturrell",
             "repo": "skimpy",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2025-10-17T13:19:14Z",
             "owner": "wesm",
             "repo": "pydata-book",
-            "stars": 24269
+            "stars": 24273
           }
         },
         {
@@ -1118,10 +1118,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:32:11.288Z",
+    "last_updated": "2026-02-08T04:37:23.737Z",
     "original_repository": "mcanouil/awesome-quarto",
     "source_repository": "v1nvn/enhansome-quarto",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": ""
   }
 }
