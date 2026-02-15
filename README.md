@@ -132,8 +132,8 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ## Supported editors
 
-* [Visual Studio Code/Positron](https://github.com/quarto-dev/quarto) ⭐ 536 | 🐛 364 | 🌐 TypeScript | 📅 2026-02-12 - Extension for [Visual Studio Code/Positron](https://code.visualstudio.com/) to work with Quarto.
-* [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto](https://github.com/quarto-dev/quarto) ⭐ 536 | 🐛 364 | 🌐 TypeScript | 📅 2026-02-12).
+* [Visual Studio Code/Positron](https://github.com/quarto-dev/quarto) ⭐ 537 | 🐛 364 | 🌐 TypeScript | 📅 2026-02-12 - Extension for [Visual Studio Code/Positron](https://code.visualstudio.com/) to work with Quarto.
+* [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto](https://github.com/quarto-dev/quarto) ⭐ 537 | 🐛 364 | 🌐 TypeScript | 📅 2026-02-12).
 * [Neovim](https://github.com/quarto-dev/quarto-nvim) ⭐ 494 | 🐛 6 | 🌐 Lua | 📅 2026-01-29 - Tools for [Neovim](https://neovim.io/) to work with Quarto.
 * [Emacs](https://github.com/quarto-dev/quarto-emacs) ⭐ 150 | 🐛 15 | 🌐 Emacs Lisp | 📅 2024-01-05 - Mode for [Emacs](https://www.gnu.org/software/emacs/) to work with Quarto.
 * [Vim](https://github.com/quarto-dev/quarto-vim) ⭐ 60 | 🐛 1 | 🌐 Vim Script | 📅 2026-01-27 - Plugin for [Vim](https://www.vim.org/) to work with Quarto.
@@ -171,7 +171,7 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 * [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) ⭐ 27 | 🐛 6 | 🌐 Rust | 📅 2022-10-07 - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
 * [Quartize](https://github.com/hrbrmstr/reveal-qmd) ⭐ 25 | 🐛 4 | 🌐 JavaScript | 📅 2022-08-22 - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
-* [matrix BOT](https://github.com/rgomez90/matrix-bot) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-09-29 - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
+* [matrix BOT](https://github.com/rgomez90/matrix-bot) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-09-29 - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 
 ## Continuous integration / Continuous deployment
 
@@ -203,10 +203,10 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### Websites formats
 
-* [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) ⭐ 499 | 🐛 10 | 🌐 Python | 📅 2026-01-30 - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
-* [quarto.org](https://github.com/quarto-dev/quarto-web) ⭐ 377 | 🐛 37 | 🌐 JavaScript | 📅 2026-02-13 - The Quarto documentation website.
+* [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) ⭐ 500 | 🐛 10 | 🌐 Python | 📅 2026-01-30 - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
+* [quarto.org](https://github.com/quarto-dev/quarto-web) ⭐ 378 | 🐛 37 | 🌐 JavaScript | 📅 2026-02-13 - The Quarto documentation website.
 * [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) ⭐ 152 | 🐛 4 | 🌐 HTML | 📅 2026-02-05 - Website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
-* [R-Manuals](https://github.com/rstudio/r-manuals) ⭐ 97 | 🐛 1 | 🌐 R | 📅 2026-02-01 - R Manuals rewritten with Quarto.
+* [R-Manuals](https://github.com/rstudio/r-manuals) ⭐ 97 | 🐛 1 | 🌐 R | 📅 2026-02-15 - R Manuals rewritten with Quarto.
 * [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) ⭐ 87 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-05 - Website/blog highlighting a tip for Quarto every day.
 * [Program Evaluation for Public Service (course)](https://github.com/andrewheiss/evalf22.classes.andrewheiss.com) ⭐ 65 | 🐛 1 | 🌐 HTML | 📅 2022-11-14 - Website for a graduate-level course on program evaluation and causal inference using R, built with Quarto.
 * [NASCENT-PERU website](https://nascent-peru.github.io/) - A multi-lingual (English/Spanish) website for a scientific research project using the [babelquarto](https://github.com/ropensci-review-tools/babelquarto) ⭐ 59 | 🐛 10 | 🌐 R | 📅 2026-01-23 package.
@@ -226,9 +226,9 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### Book formats
 
-* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,295 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
-* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,002 | 🐛 21 | 🌐 R | 📅 2026-01-16 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
-* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 937 | 🐛 45 | 🌐 R | 📅 2026-02-13 - "R Packages" book second edition (see <https://r-pkgs.org/>).
+* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,299 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,003 | 🐛 21 | 🌐 R | 📅 2026-01-16 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
+* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 937 | 🐛 45 | 🌐 R | 📅 2026-02-14 - "R Packages" book second edition (see <https://r-pkgs.org/>).
 * [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 275 | 🐛 13 | 🌐 TeX | 📅 2026-02-10 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 * [Network Science: Models, Mathematics, and Computation](https://github.com/network-science-notes/network-science-notes.github.io) ⭐ 3 | 🐛 2 | 🌐 TeX | 📅 2025-05-25 - Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see <https://network-science-notes.github.io/>).
 * [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
