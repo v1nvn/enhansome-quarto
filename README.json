@@ -376,7 +376,7 @@
             "last_commit": "2026-02-18T20:26:57Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 548
+            "stars": 549
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-02-18T20:26:57Z",
             "owner": "quarto-dev",
             "repo": "quarto",
-            "stars": 548
+            "stars": 549
           }
         }
       ],
@@ -544,7 +544,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-06T13:57:55Z",
+            "last_commit": "2026-03-12T14:59:29Z",
             "owner": "mcanouil",
             "repo": "quarto-wizard",
             "stars": 71
@@ -822,7 +822,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-11T20:30:09Z",
+            "last_commit": "2026-03-12T22:12:15Z",
             "owner": "quarto-dev",
             "repo": "quarto-web",
             "stars": 383
@@ -874,10 +874,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T22:47:13Z",
+            "last_commit": "2026-03-12T12:22:12Z",
             "owner": "aeturrell",
             "repo": "skimpy",
-            "stars": 506
+            "stars": 507
           }
         },
         {
@@ -1051,7 +1051,7 @@
             "last_commit": "2026-02-27T13:11:53Z",
             "owner": "hadley",
             "repo": "r4ds",
-            "stars": 5016
+            "stars": 5017
           }
         },
         {
@@ -1061,7 +1061,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-03-11T07:31:40Z",
+            "last_commit": "2026-03-12T07:33:38Z",
             "owner": "hadley",
             "repo": "r-pkgs",
             "stars": 936
@@ -1095,7 +1095,7 @@
             "last_commit": "2025-10-17T13:19:14Z",
             "owner": "wesm",
             "repo": "pydata-book",
-            "stars": 24377
+            "stars": 24384
           }
         },
         {
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:20:24.860Z",
+    "last_updated": "2026-03-13T04:19:03.128Z",
     "original_repository": "mcanouil/awesome-quarto",
     "source_repository": "v1nvn/enhansome-quarto",
     "source_repository_description": null,
