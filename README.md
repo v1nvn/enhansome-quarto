@@ -16,8 +16,8 @@ The most up to date curated list of [Quarto®](https://quarto.org) docs, talks, 
 
 Contributions of any kind are welcome, just follow the [guidelines](origin/.github/CONTRIBUTING.md) by either:
 
-* Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil\&labels=\&template=suggestion.yml) ⭐ 2,075 | 🐛 2 | 📅 2026-02-26 (easier).
-* Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare) ⭐ 2,075 | 🐛 2 | 📅 2026-02-26.
+* Filling a [suggestion issue](https://github.com/mcanouil/awesome-quarto/issues/new?assignees=mcanouil\&labels=\&template=suggestion.yml) ⭐ 2,076 | 🐛 2 | 📅 2026-02-26 (easier).
+* Opening a [pull request](https://github.com/mcanouil/awesome-quarto/compare) ⭐ 2,076 | 🐛 2 | 📅 2026-02-26.
 
 ***
 
@@ -105,7 +105,7 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ## Talks and videos
 
-* [Literate Programming With Jupyter Notebooks and Quarto](https://www.rstudio.com/conference/2022/talks/literate-programming-quarto/) - Talk by Hamel Husain at RStudio::conf(2022) describing the integration between [Nbdev](https://github.com/fastai/nbdev) ⭐ 5,276 | 🐛 181 | 🌐 Jupyter Notebook | 📅 2026-02-26 and Quarto (materials: <https://github.com/fastai/nbdev-demo> ⭐ 4 | 🐛 0 | 📅 2022-06-09).
+* [Literate Programming With Jupyter Notebooks and Quarto](https://www.rstudio.com/conference/2022/talks/literate-programming-quarto/) - Talk by Hamel Husain at RStudio::conf(2022) describing the integration between [Nbdev](https://github.com/fastai/nbdev) ⭐ 5,277 | 🐛 181 | 🌐 Jupyter Notebook | 📅 2026-02-26 and Quarto (materials: <https://github.com/fastai/nbdev-demo> ⭐ 4 | 🐛 0 | 📅 2022-06-09).
 * [Hello Quarto: Share • Collaborate • Teach • Reimagine](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/) - Keynote by Mine Çetinkaya-Rundel & Julia Stewart Lowndes highlighting how they leverage Quarto in open-science at RStudio::conf(2022) (materials: <https://github.com/mine-cetinkaya-rundel/hello-quarto> ⭐ 48 | 🐛 0 | 🌐 HTML | 📅 2022-08-08).
 * [Beautiful Reports and Presentations with Quarto](https://www.youtube.com/watch?v=hbf7Ai3jnxY) - RStudio Meetup: Beautiful Reports and Presentations with Quarto by Tom Mock (materials: <https://github.com/jthomasmock/quarto-reporting> ⭐ 29 | 🐛 1 | 🌐 HTML | 📅 2022-10-30).
 * [Introduction to Quarto](https://www.youtube.com/watch?v=y6_xMIBKuP4) - R-Ladies St. Louis: Introduction to Quarto by Isabella Velásquez (materials: <https://github.com/ivelasq/2022-10-27_intro-to-quarto> ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2022-10-28).
@@ -132,8 +132,8 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ## Supported editors
 
-* [Visual Studio Code/Positron](https://github.com/quarto-dev/quarto) ⭐ 550 | 🐛 372 | 🌐 TypeScript | 📅 2026-03-17 - Extension for [Visual Studio Code/Positron](https://code.visualstudio.com/) to work with Quarto.
-* [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto](https://github.com/quarto-dev/quarto) ⭐ 550 | 🐛 372 | 🌐 TypeScript | 📅 2026-03-17).
+* [Visual Studio Code/Positron](https://github.com/quarto-dev/quarto) ⭐ 551 | 🐛 373 | 🌐 TypeScript | 📅 2026-03-17 - Extension for [Visual Studio Code/Positron](https://code.visualstudio.com/) to work with Quarto.
+* [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto](https://github.com/quarto-dev/quarto) ⭐ 551 | 🐛 373 | 🌐 TypeScript | 📅 2026-03-17).
 * [Neovim](https://github.com/quarto-dev/quarto-nvim) ⭐ 499 | 🐛 6 | 🌐 Lua | 📅 2026-01-29 - Tools for [Neovim](https://neovim.io/) to work with Quarto.
 * [Emacs](https://github.com/quarto-dev/quarto-emacs) ⭐ 152 | 🐛 15 | 🌐 Emacs Lisp | 📅 2024-01-05 - Mode for [Emacs](https://www.gnu.org/software/emacs/) to work with Quarto.
 * [Vim](https://github.com/quarto-dev/quarto-vim) ⭐ 61 | 🐛 1 | 🌐 Vim Script | 📅 2026-01-27 - Plugin for [Vim](https://www.vim.org/) to work with Quarto.
@@ -145,7 +145,7 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### R
 
-* [R](https://github.com/quarto-dev/quarto-r) ⭐ 159 | 🐛 39 | 🌐 R | 📅 2025-10-31 - Interface package for [R](https://www.r-project.org/) to Quarto CLI.
+* [R](https://github.com/quarto-dev/quarto-r) ⭐ 159 | 🐛 40 | 🌐 R | 📅 2025-10-31 - Interface package for [R](https://www.r-project.org/) to Quarto CLI.
 * [altdoc](https://github.com/etiennebacher/altdoc) ⭐ 82 | 🐛 20 | 🌐 R | 📅 2026-03-02 - Alternative to pkgdown to document R packages.
 * [quartostamp](https://github.com/matt-dray/quartostamp) ⭐ 60 | 🐛 10 | 🌐 R | 📅 2026-01-05 - An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` document.
 * [babelquarto](https://docs.ropensci.org/babelquarto/) - An R package to help set up and render multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
@@ -163,7 +163,7 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### Editors
 
-* [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-12 - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
+* [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) ⭐ 72 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-12 - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
 * [Quarto Wingman](https://github.com/ntluong95/quarto-wingman) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-27 - A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.
 * [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - Snippets for RStudio and VSCode to ease typesetting with Quarto.
 
@@ -204,7 +204,7 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### Websites formats
 
-* [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) ⭐ 507 | 🐛 6 | 🌐 Python | 📅 2026-03-16 - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
+* [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) ⭐ 507 | 🐛 6 | 🌐 Python | 📅 2026-03-17 - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
 * [quarto.org](https://github.com/quarto-dev/quarto-web) ⭐ 383 | 🐛 37 | 🌐 JavaScript | 📅 2026-03-16 - The Quarto documentation website.
 * [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) ⭐ 154 | 🐛 4 | 🌐 HTML | 📅 2026-03-06 - Website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
 * [R-Manuals](https://github.com/rstudio/r-manuals) ⭐ 98 | 🐛 1 | 🌐 R | 📅 2026-03-15 - R Manuals rewritten with Quarto.
@@ -227,9 +227,9 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### Book formats
 
-* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,388 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
-* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,018 | 🐛 20 | 🌐 R | 📅 2026-02-27 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
-* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 936 | 🐛 45 | 🌐 R | 📅 2026-03-16 - "R Packages" book second edition (see <https://r-pkgs.org/>).
+* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,391 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,019 | 🐛 20 | 🌐 R | 📅 2026-02-27 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
+* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 936 | 🐛 45 | 🌐 R | 📅 2026-03-17 - "R Packages" book second edition (see <https://r-pkgs.org/>).
 * [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 276 | 🐛 15 | 🌐 TeX | 📅 2026-03-11 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 * [Network Science: Models, Mathematics, and Computation](https://github.com/network-science-notes/network-science-notes.github.io) ⭐ 3 | 🐛 2 | 🌐 TeX | 📅 2025-05-25 - Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see <https://network-science-notes.github.io/>).
 * [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
@@ -268,4 +268,4 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ## Contributing
 
-Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors) ⭐ 2,075 | 🐛 2 | 📅 2026-02-26!
+Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors) ⭐ 2,076 | 🐛 2 | 📅 2026-02-26!
