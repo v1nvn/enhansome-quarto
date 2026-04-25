@@ -204,8 +204,8 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### Websites formats
 
-* [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) ⭐ 509 | 🐛 8 | 🌐 Python | 📅 2026-04-23 - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
-* [quarto.org](https://github.com/quarto-dev/quarto-web) ⭐ 389 | 🐛 34 | 🌐 JavaScript | 📅 2026-04-15 - The Quarto documentation website.
+* [Documentation website from Jupyter Notebook](https://github.com/aeturrell/skimpy) ⭐ 509 | 🐛 10 | 🌐 Python | 📅 2026-04-24 - Quarto used to generate a website from a Jupyter notebook containing Python module documentation.
+* [quarto.org](https://github.com/quarto-dev/quarto-web) ⭐ 390 | 🐛 34 | 🌐 JavaScript | 📅 2026-04-15 - The Quarto documentation website.
 * [Andrew Heiss's website](https://github.com/andrewheiss/ath-quarto) ⭐ 158 | 🐛 4 | 🌐 HTML | 📅 2026-04-20 - Website with custom EJS format, footer, 404 page, (S)CSS, and many more customisations.
 * [R-Manuals](https://github.com/rstudio/r-manuals) ⭐ 99 | 🐛 1 | 🌐 R | 📅 2026-04-19 - R Manuals rewritten with Quarto.
 * [Quarto tip a day](https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day) ⭐ 86 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-05 - Website/blog highlighting a tip for Quarto every day.
@@ -216,7 +216,7 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 * [Quering with PRQL](https://github.com/eitsupi/querying-with-prql) ⭐ 23 | 🐛 2 | 🌐 R | 📅 2025-04-02 - Docusaurus website using computations via `Jupyter` and `knitr` and multiple languages (PRQL, SQL, R, Python, *etc.*).
 * [R for Social Scientists workshop](https://github.com/pittmethods/r4ss) ⭐ 21 | 🐛 0 | 🌐 RMarkdown | 📅 2022-08-11 - A Quarto website for a workshop which includes Quarto Reveal JS presentations embedded in it.
 * [AffCom Lab Website](https://github.com/jmgirard/affcomlab) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2026-03-18 - A research lab Quarto Blog/website using custom listing pages for people and publications.
-* [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) ⭐ 17 | 🐛 6 | 🌐 HTML | 📅 2026-04-09 - A Quarto Blog for the Bioconductor community.
+* [Bioconductor Community Blog](https://github.com/Bioconductor/biocblog) ⭐ 17 | 🐛 7 | 🌐 HTML | 📅 2026-04-09 - A Quarto Blog for the Bioconductor community.
 * [rlille.fr](https://github.com/RLille/rlille.fr) ⚠️ Archived - The R Lille (R User Group) website using Quarto.
 * [Juan Torres Munguía's website](https://github.com/jatorresmunguia/juan-torresmunguia.github.io) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see <https://juan-torresmunguia.netlify.app/>).
 * [Real World Data Science](https://realworlddatascience.net/) - The Royal Statistical Society website, built with Quarto, features a custom design (based on the Lux Bootswatch theme), with a customised navbar and homepage layout.
@@ -227,9 +227,9 @@ Contributions of any kind are welcome, just follow the [guidelines](origin/.gith
 
 ### Book formats
 
-* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,503 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
-* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,031 | 🐛 21 | 🌐 R | 📅 2026-04-08 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
-* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 942 | 🐛 45 | 🌐 R | 📅 2026-04-23 - "R Packages" book second edition (see <https://r-pkgs.org/>).
+* [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) ⭐ 24,504 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-10-17 - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+* [R for Data Science, 2E](https://github.com/hadley/r4ds/) ⭐ 5,033 | 🐛 21 | 🌐 R | 📅 2026-04-08 - "R for Data Science" book second edition (see <https://r4ds.hadley.nz/>).
+* [R Packages, 2E](https://github.com/hadley/r-pkgs/) ⭐ 943 | 🐛 45 | 🌐 R | 📅 2026-04-24 - "R Packages" book second edition (see <https://r-pkgs.org/>).
 * [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) ⭐ 279 | 🐛 19 | 🌐 TeX | 📅 2026-04-23 - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 * [Network Science: Models, Mathematics, and Computation](https://github.com/network-science-notes/network-science-notes.github.io) ⭐ 4 | 🐛 2 | 🌐 TeX | 📅 2025-05-25 - Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see <https://network-science-notes.github.io/>).
 * [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
